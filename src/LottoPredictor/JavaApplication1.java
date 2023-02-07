@@ -1,7 +1,7 @@
 //This application is NOT intended to be used for gambling and is purely a joke application\\ 
 
 
-package javaapplication1;
+package LottoPredictor;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
